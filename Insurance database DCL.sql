@@ -1,0 +1,2 @@
+-- No DCL statements are present in the source project.
+-- Add GRANT or REVOKE statements here if you need access control examples.
