@@ -1,4 +1,8 @@
-# 🏦 Bi-Temporal Enterprise Database Management System
+# 🏦 ChronoSure
+
+### Bi-Temporal Enterprise Database Management System
+
+> **An enterprise-grade insurance database platform powered by bi-temporal data management, enabling complete historical tracking, temporal querying, auditing, and regulatory compliance.**
 
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-14%2B-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
