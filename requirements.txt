@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+psycopg2-binary
+yagmail
+ipython
+ipykernel
+nbformat
+jupyter
